@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c693ae9-e828-411f-b989-c221d1e7653c" name="Changes" comment="all tables">
+      <change afterPath="$PROJECT_DIR$/../Python/Current/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Current/newmain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftEng22-69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StRS examples/StRS - S02.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StRS examples/StRS - S03.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StRS examples/StRS - Station Administrators.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StRS examples/StRS - Vehicle Owners.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StRS examples/StRS_Εταιρίες παραγωγής ηλεκτρικής ενέργειας.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StRS examples/StRS_Ιδιοκτήτες ηλεκτρικών οχημάτων.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/doanswer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/getquestionanswers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/getsessionanswers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/healthcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/logout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/questionnaire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/questionnaireupd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/resetallCSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/resetallJSONONLY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cli/resetq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intelliQ - requirements workshop results.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srs.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2KSsFb3oVHqZFPhChSDMW55P99e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "18.14.0",
+    "javascript.nodejs.core.library.typings.version": "18.14.6",
+    "last_opened_file_path": "D:/Desktop/done/tl/SoftEng22-69 final",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vpp/new documentation" />
+      <recent name="$PROJECT_DIR$/vpp/old documentation" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c693ae9-e828-411f-b989-c221d1e7653c" name="Changes" comment="" />
+      <created>1673979225801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673979225801</updated>
+      <workItem from="1674992840630" duration="11896000" />
+      <workItem from="1675760968356" duration="2370000" />
+      <workItem from="1675764996835" duration="5970000" />
+      <workItem from="1675787673156" duration="8605000" />
+      <workItem from="1675975195391" duration="7819000" />
+      <workItem from="1676018096721" duration="10149000" />
+      <workItem from="1676059871375" duration="2481000" />
+      <workItem from="1676112981409" duration="4184000" />
+      <workItem from="1676378908643" duration="17721000" />
+      <workItem from="1727688119089" duration="284000" />
+      <workItem from="1727688886928" duration="716000" />
+    </task>
+    <task id="LOCAL-00001" summary="tables">
+      <created>1674989272190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674989272190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="db">
+      <created>1674992635207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674992635207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all tables">
+      <created>1674994124041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674994124041</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all tables">
+      <created>1676312050746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676312050746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tables" />
+    <MESSAGE value="db" />
+    <MESSAGE value="all tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="all tables" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
